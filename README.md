@@ -140,7 +140,7 @@ A student management application built to organize academic records and streamli
 - 🌌 **Technology exploration:** Learning about emerging areas such as quantum computing.
 - 🤝 **Collaboration:** Sharing ideas, learning from others, and building together.
 
-## `06` — Connect With Me
+## `06` — Connect With Me 
 
 I'm open to connecting with developers, exploring interesting technologies, and collaborating on meaningful projects.
 
